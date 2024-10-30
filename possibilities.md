@@ -1,5 +1,33 @@
 Here are some specific biomedical fields where we can apply Graph Signal Processing (GSP) and Graph Neural Networks (GNN):
 
+Recent advancements in Graph Signal Processing (GSP) and Graph Neural Networks (GNNs) are transforming various fields by leveraging the structural advantages of graph-based methods for more sophisticated and context-aware data processing. GSP focuses on extending traditional signal processing to non-Euclidean domains, thus finding applications in fields like neuroimaging, anomaly detection, and environmental monitoring. Meanwhile, GNNs excel in understanding relational data and have been widely adopted across domains like healthcare, AI, and communications for complex prediction tasks and network-based data analysis.
+
+### Graph Signal Processing (GSP) - Key Research Highlights:
+
+1. **Anomalous Sound Detection Using GSP**: A recent study applied GSP to detect anomalous sounds in road surveillance by embedding audio signals on graphs and filtering them, enhancing detection accuracy and performance ([EUSIPCO 2024](https://eurasip.org/Proceedings/Eusipco/Eusipco2024/pdfs/0000161.pdf)).
+
+2. **Graph Topology Identification**: This research leverages GSP for estimating graph topology using covariance matching, targeting applications in identifying underlying signal structures in complex networks ([TUDelft Repository](https://repository.tudelft.nl/file/File_a65090c7-45e4-4bb0-91f1-b799dafb2294?preview=1)).
+
+3. **Brain Data Classification via Graph Wavelet Packets**: Researchers have integrated GSP with neuroimaging data to classify anxiety and depression by combining structural and functional neuroimaging data through graph wavelet transforms ([HAL](https://hal.science/hal-04683535)).
+
+4. **Fractional Fourier Transform for GSP**: A novel approach merges GSP with the fractional Fourier transform, improving capabilities in sampling, filtering, and analysis of non-uniform data domains ([Bilkent University Repository](https://repository.bilkent.edu.tr/bitstreams/a1aa70d8-b99f-418f-84b1-3483ac9257cc/download)).
+
+5. **Satellite Image Declouding for Agriculture**: Utilizing GSP, this study declouds satellite images for crop monitoring, capturing spatial correlations in pixel data for more precise agricultural assessments ([IEEE Xplore](https://ieeexplore.ieee.org/abstract/document/10648253/)).
+
+### Graph Neural Networks (GNNs) - Key Research Highlights:
+
+1. **GNN-based Routing Optimization**: GNNs are increasingly applied in communication networks for routing optimization, showing potential in managing data flow in complex network topologies ([MDPI](https://www.mdpi.com/2071-1050/16/21/9239)).
+
+2. **Predicting Adverse Drug Events**: Using subgraph-level predictions, GNNs are utilized to foresee adverse drug events, proving effective for drug safety and monitoring applications ([ScienceDirect](https://www.sciencedirect.com/science/article/pii/S0010482524013672)).
+
+3. **Enhanced Load Balancing in Cloud Networks**: Combining GNN and logistic regression, this approach optimizes cloud security by efficiently balancing load and classifying malicious requests, pivotal for IoT and cloud systems ([Springer](https://link.springer.com/article/10.1007/s10586-024-04754-3)).
+
+4. **Spiking Graph Neural Networks**: By applying spiking GNNs on Riemannian manifolds, researchers aim to improve energy efficiency and real-time processing, promising for neuromorphic computing applications ([arXiv](https://arxiv.org/abs/2410.17941)).
+
+5. **Industrial Process Monitoring with DAMPNN**: A novel dynamic adaptive message-passing neural network adapts to the changing conditions in industrial soft sensors, enhancing robustness in data monitoring ([IEEE Transactions](https://ieeexplore.ieee.org/abstract/document/10734590/)).
+
+These recent studies demonstrate the versatility and innovation within GSP and GNN research, expanding the scope of graph-based approaches for effective, domain-specific solutions across various industries.
+
 ---
 
 ### **1. Brain Connectivity Analysis (Neuroscience)**
