@@ -1,4 +1,4 @@
-![Uploading image.png…]()
+![image](https://github.com/user-attachments/assets/c5b3b39f-61a4-493b-8b46-9b31165adc12)
 
 
 The uploaded image illustrates the **3D U-Net architecture** used for **MRI feature extraction** in Heart-Net, specifically tailored for cardiac MRI data. Here’s a breakdown of each part of the architecture and how it works:
